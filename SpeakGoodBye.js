@@ -7,4 +7,3 @@
 	window.byeSpeaker = byeSpeaker;
 
 })(window);
-© 2021 GitHub, Inc.
